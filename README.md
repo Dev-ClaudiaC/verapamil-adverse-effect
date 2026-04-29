@@ -1,7 +1,7 @@
 # Verapamil Adverse Drug Reaction Analysis
 
 ## Research Question
-What are the most common side effects reported for verapamil?
+What are the most common side effects reported for verapamil over last 20 years?
 
 ---
 
