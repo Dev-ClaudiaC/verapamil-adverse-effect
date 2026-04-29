@@ -38,3 +38,7 @@ The chart shows the most common side effects reported for verapamil.
 
 ## Conclusion
 This project shows how FDA data can be used to see common side effects of a drug.
+=======
+# Verapamil-analysis
+Analysis of Verapamil adverse drug reactions using FDA FAERS data from the last 20 years.
+>>>>>>> 5249df432dd1696223d186e1b5cd9046923f2eea
