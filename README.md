@@ -32,7 +32,7 @@ This data includes reports of side effects from real patients.
 ---
 
 ## Results
-The chart shows the most common side effects reported for verapamil.
+The chart shows the most common side effects reported for verapamil from 2016 to 2026.
 
 ---
 
